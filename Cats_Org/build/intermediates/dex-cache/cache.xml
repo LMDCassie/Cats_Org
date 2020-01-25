@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_985aa47dd2ef4fd3f1e06fe9033558881a16c4d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Natural_Knight\.gradle\caches\modules-2\files-2.1\org.eclipse.jgit\org.eclipse.jgit\2.1.0.201209190230-r\5e7296d21645a479a1054fc96f3ec8469cede137\org.eclipse.jgit-2.1.0.201209190230-r.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5e7296d21645a479a1054fc96f3ec8469cede137">
+        <dex dex="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\build\intermediates\pre-dexed\debug\org.eclipse.jgit-2.1.0.201209190230-r_512d9e069714d947f4540d180d2112a132982e0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.0.0_2783f2a5c6479c07fac3943b133116b821543f97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.1.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b15c6ded887ad967e20bb335c1a121b253c04dce">
+        <dex dex="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.1.3_85aed9d3360071d4e52a69a7090831facee3fcfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\libs\httpmime-4.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="dd1973851926925e02d0bbdf4ec0f7435d8292ce">
+        <dex dex="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\build\intermediates\pre-dexed\debug\httpmime-4.0.3_4c36e9a42c1fdb601fea81ffc9d274c91e5370a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_b084ee66b2ee8017f9bcd64fcf0eb2dc7d052a9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\build\intermediates\pre-dexed\debug\com.android.support-design-24.0.0_cf6b054a25a28fd2a2776483dcbb6fd15b852da2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\libs\json_simple-1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\build\intermediates\pre-dexed\debug\json_simple-1.1_9c8fe4ecaefd6420b62205e89fb8b2013171c37d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\libs\apache-mime4j-0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="12e7270b1819bae792c9a9e5e8076ebbcdaaac4b">
+        <dex dex="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\build\intermediates\pre-dexed\debug\apache-mime4j-0.6_9dc1e9b515057824156bcf295c0ccda37285ee41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\libs\signpost-core-1.2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d1b39a438178bc885d724458de64cee33f1932a6">
+        <dex dex="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\build\intermediates\pre-dexed\debug\signpost-core-1.2.1.1_db781ca3ddd0e9f0518699dbda852d0824368308.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Natural_Knight\.gradle\caches\modules-2\files-2.1\com.jcraft\jsch\0.1.50\fae4a0b1f2a96cb8f58f38da2650814c991cea01\jsch-0.1.50.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fae4a0b1f2a96cb8f58f38da2650814c991cea01">
+        <dex dex="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\build\intermediates\pre-dexed\debug\jsch-0.1.50_70ea85335cb902677bd04a0d2849990eaab20ccf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Natural_Knight\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.3\bde0667d7414c16ed62d3cfe993cff7f9d732373\constraint-layout-solver-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="bde0667d7414c16ed62d3cfe993cff7f9d732373">
+        <dex dex="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.1.3_32548b8767bb5cfc1c037482ddf946103e412ae0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\libs\CWAC-MergeAdapter.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="36abea92753f48c946231f47200548193e1cb7a8">
+        <dex dex="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\build\intermediates\pre-dexed\debug\CWAC-MergeAdapter_4e89b1f2517aad641b7442ed414fe85890c2cdc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.0.0_07d59216b067a1fdbd8a847a05770e1d10385854.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\libs\dropbox-android-sdk-1.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7d1e0dff41cadb166a52ad44cc03d4dd41b7044e">
+        <dex dex="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\build\intermediates\pre-dexed\debug\dropbox-android-sdk-1.5.3_93926c7c713e0a5e50f61c13a0adfe3bd098232e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\libs\CWAC-SackOfViewsAdapter.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c514a41a4d82b75c692e161557fb3a493964794f">
+        <dex dex="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\build\intermediates\pre-dexed\debug\CWAC-SackOfViewsAdapter_222876eed724b91495507a1ccc29fb0bbc51474b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_a284303daae4acb94c99cfddc4763494203e5cee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\libs\signpost-commonshttp4-1.2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="576194c2d9ecf9382ed5ab913de8b36640507847">
+        <dex dex="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\build\intermediates\pre-dexed\debug\signpost-commonshttp4-1.2.1.1_b1b482aeddee2babde5f415477fa779f732eb7e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Natural_Knight\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_70a58318fa347c7e1576853289585143674b6110.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_2f951bc4d681a569ef01c5965e7789b05edb7ba0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="D:\works\mobileorg-android-master(1) (2)\mobileorg-android-master\MobileOrg\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_608d918be18d508b27d4e2c22196823dc055c16c.jar" />
+    </item>
+
+</items>
